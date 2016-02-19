@@ -1,0 +1,145 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: #0b0b61;
+	font-weight: bold;
+	margin-top: 5%;
+}
+nav ul {
+	list-style-type: none;
+	float: left;
+	font-size: 22px;
+	white-space: nowrap;
+	margin-left: 32%;
+	margin-bottom: 16px;
+} /* Inserta tu codigo aqui */
+nav li {
+	margin-top: 10%;
+	position: relative;
+	float: left;
+	margin-right: 55px;
+}
+a {
+	text-decoration: none;
+	color:  #0404b4;
+}
+.port img {
+	width: 100%;
+	margin-top: 35px;
+}
+a:hover {
+	color: #b4045f;
+}
+.fondo {
+	background-image: url("../img/dance_1.jpg");
+	background-size: 100% 100%;
+	height: 400px;
+	margin-bottom: 18px;
+	position: static;
+}
+.gran {
+	font-family: Arial;
+	text-transform: uppercase;
+	font-size: 60px;
+	color: #bdbdbd;
+	margin-left: 10%;
+	padding-top: 38px;
+}
+.text {
+	font-size: 12px;
+	font-family: Verdana;
+	color: #848484;
+	margin-left: 10%;
+	margin-top: 12px;
+}
+.btn {
+	width: 105px;
+	height: 40px;
+	margin-left: 10%;
+	margin-top: 16px;
+	background-color: #010921;
+	border: 0;
+}
+.subp {
+	text-align: center;
+	font-size: 24px;
+	padding-top: 38px;
+	color: #0b0b61;
+}
+.deco {
+	width: 115px;
+	height: 95px;
+	position: relative;
+	margin-left: 45%;
+}
+.g {
+	width: 233px;
+	height: 40px;
+	margin-left: 40%;
+	background-color: #0b0b61;
+	border-radius: 3Spx;
+	border: 0; 
+
+}
+.bla {
+	color: #848484;
+}
+.der {
+	background-image: url("../img/instructor_4.jpg");
+	background-size: 100% 100%;
+	height: 260px;
+}
+.izq {
+	background-image: url("../img/profesor_9.jpg");
+	background-size: 120% 120%;
+	height: 260px;
+}
+.bor {
+	margin-top: 7%;
+	border-top: 2px solid #0b0b61;
+	border-bottom: 2px solid #0b0b61;
+}
+.bo {
+	width: 300px;
+	height: 40px;
+	background-color: #0b0b61;
+	border: 0;
+	margin-left: 80%;
+}
+/*me falta encontrar la manera correcta de posicionar mi último botón*/
+.est {
+	font-size: 32px;
+	font-family: Calibri;
+	font-weight: 100;
+	margin-top: 10%;
+	margin-bottom: 6%;
+	text-align: center;
+}
+.az {
+	background-color: #072668; 
+}
+.t {
+	color: #bdbdbd;
+	font-size: 12px;
+	margin-left: 40px;
+	margin-top: 18%;
+	padding-left: 10px;
+	padding-right: 10px; 
+}
+.t2 {
+	color: #bdbdbd;
+	font-size: 12px;
+	margin-left: 10%;
+	margin-top: 10px;
+}
+#v {
+	font-family: Arial;
+	font-size: 20px;
+	color: #e6e6e6;
+	margin-left: 10%;
+	margin-top: 30px;
+}
+.map {
+	width: 100% 100%;
+	height: 85px;
+}
